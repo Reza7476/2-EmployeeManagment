@@ -1,0 +1,15 @@
+F:\TaaVClass\GotHubRepositoryOOP\2-EmployeeManagement\2-EmployeeManagement\2-EmployeeManagement\bin\Debug\net6.0\2-EmployeeManagement.exe
+F:\TaaVClass\GotHubRepositoryOOP\2-EmployeeManagement\2-EmployeeManagement\2-EmployeeManagement\bin\Debug\net6.0\2-EmployeeManagement.deps.json
+F:\TaaVClass\GotHubRepositoryOOP\2-EmployeeManagement\2-EmployeeManagement\2-EmployeeManagement\bin\Debug\net6.0\2-EmployeeManagement.runtimeconfig.json
+F:\TaaVClass\GotHubRepositoryOOP\2-EmployeeManagement\2-EmployeeManagement\2-EmployeeManagement\bin\Debug\net6.0\2-EmployeeManagement.dll
+F:\TaaVClass\GotHubRepositoryOOP\2-EmployeeManagement\2-EmployeeManagement\2-EmployeeManagement\bin\Debug\net6.0\2-EmployeeManagement.pdb
+F:\TaaVClass\GotHubRepositoryOOP\2-EmployeeManagement\2-EmployeeManagement\2-EmployeeManagement\obj\Debug\net6.0\2-EmployeeManagement.csproj.AssemblyReference.cache
+F:\TaaVClass\GotHubRepositoryOOP\2-EmployeeManagement\2-EmployeeManagement\2-EmployeeManagement\obj\Debug\net6.0\2-EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\TaaVClass\GotHubRepositoryOOP\2-EmployeeManagement\2-EmployeeManagement\2-EmployeeManagement\obj\Debug\net6.0\2-EmployeeManagement.AssemblyInfoInputs.cache
+F:\TaaVClass\GotHubRepositoryOOP\2-EmployeeManagement\2-EmployeeManagement\2-EmployeeManagement\obj\Debug\net6.0\2-EmployeeManagement.AssemblyInfo.cs
+F:\TaaVClass\GotHubRepositoryOOP\2-EmployeeManagement\2-EmployeeManagement\2-EmployeeManagement\obj\Debug\net6.0\2-EmployeeManagement.csproj.CoreCompileInputs.cache
+F:\TaaVClass\GotHubRepositoryOOP\2-EmployeeManagement\2-EmployeeManagement\2-EmployeeManagement\obj\Debug\net6.0\2-EmployeeManagement.dll
+F:\TaaVClass\GotHubRepositoryOOP\2-EmployeeManagement\2-EmployeeManagement\2-EmployeeManagement\obj\Debug\net6.0\refint\2-EmployeeManagement.dll
+F:\TaaVClass\GotHubRepositoryOOP\2-EmployeeManagement\2-EmployeeManagement\2-EmployeeManagement\obj\Debug\net6.0\2-EmployeeManagement.pdb
+F:\TaaVClass\GotHubRepositoryOOP\2-EmployeeManagement\2-EmployeeManagement\2-EmployeeManagement\obj\Debug\net6.0\2-EmployeeManagement.genruntimeconfig.cache
+F:\TaaVClass\GotHubRepositoryOOP\2-EmployeeManagement\2-EmployeeManagement\2-EmployeeManagement\obj\Debug\net6.0\ref\2-EmployeeManagement.dll
